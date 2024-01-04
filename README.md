@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @noah-d-woods
-- 👀 I’m interested in 
+# 👋 Hi, I’m @noah-d-woods
+
 - 🌱 I’m currently learning web development with TS, Python, and React
 
 ![Github-Readme-Stats](https://github-readme-stats-git-master-noah-woods-projects.vercel.app/api?username=noah-d-woods&show_icons=true&hide=stars&theme=transparent)
